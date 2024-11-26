@@ -8,4 +8,5 @@ int main(){
    }else{
     printf("number2 is greater than number1 = %d\n", n2 - n1);
    }
+   return 0;
 }
